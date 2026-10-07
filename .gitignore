@@ -3,6 +3,17 @@
 PRE_*/temp/*
 !PRE_*/temp/.gitkeep
 
+# Archivos generados por las actividades
+P*/temp/*
+!P*/temp/.gitkeep
+L*/temp/*
+!L*/temp/.gitkeep
+
+P*/submission/*
+!P*/submission/.gitkeep
+L*/submission/*
+!L*/submission/.gitkeep
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
